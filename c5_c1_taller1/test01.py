@@ -17,3 +17,10 @@ for i in range(cantidad):
         print("No cumple los requisitos")
 
 print("Proceso finalizado")
+
+
+#######
+
+#1
+#2
+#3
