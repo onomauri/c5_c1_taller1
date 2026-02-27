@@ -17,7 +17,3 @@ for i in range(cantidad):
         print("No cumple los requisitos")
 
 print("Proceso finalizado")
-
-#ejemplo de actualizacion
-
-
